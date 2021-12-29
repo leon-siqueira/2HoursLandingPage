@@ -1,0 +1,12 @@
+#banner> h1 p a {
+  
+}
+
+.banner{
+  background-color: rgb(92, 56, 56);
+  text-align: center;
+
+  height: 100%;
+  width: 100%;
+  color: rgb(220, 220, 220);  
+}
